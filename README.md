@@ -1,5 +1,9 @@
 # 💫 About Me:
-Me llamo Josner, nacido el 10 de Julio del año 2000, Venezuela.<br>Soy desarrollador de plugins para Minecraft desde 2017.<br><br>A lo largo de todos estos años he ido aprendiendo bastante el lenguaje de Java así como también trabajar con SQLite y MySQL, aunque para mi no es suficiente.<br>En este perfil de Github estaré publicando gran parte de mis proyectos y practicas, con la intención de aprender nuevos lenguajes de desarrollo hasta el punto de llegar ser un Fullstack.
+My name is Josner, born on July 10, 2000. Since I was 16, I've been learning the Java programming language, starting with creating plugins/addons for Minecraft servers in version 1.7, 10, and 1.8. Since then, I've dedicated my entire life to learning Java, updating my knowledge with each framework that has emerged over the years. Despite everything, I feel more comfortable using Java in the most natural way.
+
+Throughout these years of learning, I've learned to work with and implement any API, work with Sockets, HTTP requests, and work with MySQL, SQLite, PostgreSQL, and MariaDB. I've practiced creating applications using Java Swing, FlatLay, MigLayout, and more. I've also learned to work with all versions of Spigot and PaperSpigot, create minigame plugins, or dedicated plugins for Survival/RPG servers. I've even managed to create plugin-to-server socket connections to send and receive information between the Minecraft server and an external client. I called the project "Ariatus," a 100% RPG server with mandatory dependencies on an external application (proximity voice chat, in-game overlay, real-time information, and more). The application is also connected to a forum (Xenforo) for reading featured news or updates. (RSS)
+
+In short, I've been learning Java for over 8 years, improving my knowledge every day and putting it into practice at all times. Although my Github doesn't have many repositories, I can assure you that I have the necessary experience for any project.
 
 
 # 💻 Tech Stack:
